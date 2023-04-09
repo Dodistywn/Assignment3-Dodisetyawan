@@ -9,7 +9,7 @@ body {
     margin-top: 15px;
     padding: 15px 30px 15px 30px;
     border: none;
-    border-radius: 30px;
+    border-radius: 12px;
     background: black;
     cursor: pointer;
     font-size: 15px;
@@ -96,6 +96,6 @@ body {
 
 input{
     width: 40%;
-    height: 40px;
+    height: 43px;
     border-radius: 10px;
 }
